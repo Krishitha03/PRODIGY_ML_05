@@ -2,6 +2,6 @@
 
 # Dataset link - 
 Database link 1:
-https://www.kaggle.com/datasets/dansbecker/food-101/data
+https://www.kaggle.com/datasets/dansbecker/food-101/data ;
 Dataset link 2:
 !wget http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
